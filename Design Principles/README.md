@@ -8,4 +8,4 @@ This Repo is all about learning
     - Open-Closed Principle
     - Liskov Substitution Principle
     - Interface Seggregation
-    - Dependecy Inversion Principle
+    - Dependency Inversion Principle
