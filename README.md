@@ -6,7 +6,7 @@ This Repo is all about learning
 - SwiftUI
 - Java Programming
 - Low Level Design (LLD) (Java & Swift Programming)
-- High Level Design (HLD) (Java & Swift Programming)
+- High Level Design (HLD)
 - Design Principles
 - Data Structure and Algorithms 
 - ReactJS
