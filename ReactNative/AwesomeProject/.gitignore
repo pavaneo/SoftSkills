@@ -1,0 +1,55 @@
+# React Native
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# macOS
+.DS_Store
+
+# Xcode
+ios/build/
+ios/Pods/
+ios/Podfile.lock
+ios/*.xcworkspace
+ios/*.xcuserstate
+ios/*.xcuserdata
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata
+.idea/
+*.xcuserstate
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+*.keystore
+
+# Metro
+.expo/
+.expo-shared/
+.cache/
+.buckd/
+.haul/
+.watchmanconfig
+
+# Testing
+coverage/
+jest/
+*.log
+debug.log
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+.env.*
+
+# CocoaPods
+ios/DerivedData/
+
+# Misc
+*.swp
