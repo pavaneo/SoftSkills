@@ -4,3 +4,4 @@ This Repo is all about learning
 
 - Low Level Design (LLD) Swift Programming
 
+- SOLID Principles in swift

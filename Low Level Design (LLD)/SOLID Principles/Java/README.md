@@ -4,3 +4,5 @@ This Repo is all about learning
 
 - Low Level Design (LLD) in Java Programming
 
+
+- SOLID Principles in Java
