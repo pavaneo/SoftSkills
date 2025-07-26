@@ -1,5 +1,0 @@
-# ninja log v5
-0	16	0	/Users/pavankumarj/Documents/Prepare/ReactNative/AwesomeProject/android/app/.cxx/Debug/6v50206i/x86_64/CMakeFiles/cmake.verify_globs	f2ace83b83e0730e
-0	1429	1746882202505080905	CMakeFiles/appmodules.dir/Users/pavankumarj/Documents/Prepare/ReactNative/AwesomeProject/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	8efcf750b7a3ba9c
-1	1541	1746882202614106862	CMakeFiles/appmodules.dir/OnLoad.cpp.o	351af80d78cae682
-1542	1650	1746882202734717897	/Users/pavankumarj/Documents/Prepare/ReactNative/AwesomeProject/android/app/build/intermediates/cxx/Debug/6v50206i/obj/x86_64/libappmodules.so	4ecd84c345fb391f

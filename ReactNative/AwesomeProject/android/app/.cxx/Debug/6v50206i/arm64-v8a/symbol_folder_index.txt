@@ -1,1 +1,0 @@
-/Users/pavankumarj/Documents/Prepare/ReactNative/AwesomeProject/android/app/build/intermediates/cxx/Debug/6v50206i/obj/arm64-v8a
